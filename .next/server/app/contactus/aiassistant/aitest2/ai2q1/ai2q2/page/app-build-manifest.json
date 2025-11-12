@@ -1,0 +1,29 @@
+{
+  "pages": {
+    "/contactus/aiassistant/aitest2/ai2q1/ai2q2/page": [
+      "static/chunks/9cf2c_next_dist_508c0b75._.js",
+      "static/chunks/Eduweb_src_app_favicon_ico_mjs_33a6b5b6._.js",
+      "static/chunks/[root-of-the-server]__8e160cbb._.js",
+      "static/chunks/9cf2c_react-icons_fa_index_mjs_b69f765d._.js",
+      "static/chunks/9cf2c_react-icons_lib_d47fb0f9._.js",
+      "static/chunks/9cf2c_next_dist_02de8e3b._.js",
+      "static/chunks/[root-of-the-server]__f35dc205._.css",
+      "static/chunks/Eduweb_src_app_layout_tsx_bbf84201._.js",
+      "static/chunks/9cf2c_next_dist_client_components_builtin_global-error_0bbd85ee.js",
+      "static/chunks/9cf2c_next_fe9b8da6._.js",
+      "static/chunks/9cf2c_react-icons_io5_index_mjs_a9e73aba._.js",
+      "static/chunks/9cf2c_react-icons_fa6_index_mjs_38ae4c3b._.js",
+      "static/chunks/Eduweb_src_components_ef152437._.js",
+      "static/chunks/Eduweb_src_app_contactus_aiassistant_aitest2_ai2q1_ai2q2_page_tsx_0bbd85ee._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f50226a2._.js",
+      "static/chunks/9cf2c_next_dist_compiled_react-dom_52af72ec._.js",
+      "static/chunks/9cf2c_next_dist_compiled_next-devtools_index_e963eb57.js",
+      "static/chunks/9cf2c_next_dist_compiled_55c73e7a._.js",
+      "static/chunks/9cf2c_next_dist_client_3e1e33f1._.js",
+      "static/chunks/9cf2c_next_dist_c2c777c0._.js",
+      "static/chunks/9cf2c_@swc_helpers_cjs_78c9af11._.js",
+      "static/chunks/Eduweb_a0ff3932._.js",
+      "static/chunks/turbopack-Eduweb_02e0bb8b._.js"
+    ]
+  }
+}

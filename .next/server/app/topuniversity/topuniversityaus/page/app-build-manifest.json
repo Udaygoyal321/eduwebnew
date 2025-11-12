@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "/topuniversity/topuniversityaus/page": [
+      "static/chunks/7f1c3_next_dist_ecf73ae6._.js",
+      "static/chunks/edulinks-websitenew_edulinks-website_src_app_favicon_ico_mjs_097bfc1c._.js",
+      "static/chunks/7f1c3_react-icons_fa_index_mjs_c9219af1._.js",
+      "static/chunks/7f1c3_react-icons_lib_47043622._.js",
+      "static/chunks/7f1c3_next_dist_a5637747._.js",
+      "static/chunks/[root-of-the-server]__467c273d._.js",
+      "static/chunks/[root-of-the-server]__7303f488._.css",
+      "static/chunks/edulinks-websitenew_edulinks-website_src_app_layout_tsx_e7f5b9cf._.js",
+      "static/chunks/7f1c3_next_dist_client_components_builtin_global-error_e7a085c4.js",
+      "static/chunks/edulinks-websitenew_edulinks-website_src_components_31efb354._.js",
+      "static/chunks/7f1c3_next_745dedfd._.js",
+      "static/chunks/7f1c3_react-icons_fi_index_mjs_d75fc207._.js",
+      "static/chunks/7f1c3_react-icons_md_index_mjs_85b1d9d4._.js",
+      "static/chunks/7f1c3_react-icons_fa6_index_mjs_0a8a5947._.js",
+      "static/chunks/aaad8_edulinks-website_src_app_topuniversity_topuniversityaus_page_tsx_e7a085c4._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_46cfac4f._.js",
+      "static/chunks/7f1c3_next_dist_compiled_react-dom_83641a40._.js",
+      "static/chunks/7f1c3_next_dist_compiled_next-devtools_index_a7af1c49.js",
+      "static/chunks/7f1c3_next_dist_compiled_0cf3a2df._.js",
+      "static/chunks/7f1c3_next_dist_client_7f19917c._.js",
+      "static/chunks/7f1c3_next_dist_fe3da0c6._.js",
+      "static/chunks/7f1c3_@swc_helpers_cjs_cdebd6fc._.js",
+      "static/chunks/edulinks-websitenew_edulinks-website_a0ff3932._.js",
+      "static/chunks/turbopack-edulinks-websitenew_edulinks-website_081888f0._.js"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/91964/Desktop/Eduweb/src/app/contactus/aiassistant/aitest3/ai3q1/ai3q2/ai3q3/page.tsx"],"sourcesContent":["import Ai3Q3 from \"@/components/ContactUs/AiAssistant/AiTest3/Ques3/Ai3Q3/page\";\r\n\r\nexport default function Ai3Q33 () {\r\n    return (\r\n        <div className=\"pt-21\">\r\n            <Ai3Q3 />\r\n        </div>\r\n    )\r\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,wPAAC;QAAI,WAAU;kBACX,cAAA,wPAAC,wMAAK;;;;;;;;;;AAGlB","debugId":null}}]
+}

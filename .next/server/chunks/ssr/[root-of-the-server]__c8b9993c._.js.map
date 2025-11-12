@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/91964/Desktop/Eduweb/src/app/contactus/aiassistant/aitest4/ai4q1/ai4q2/ai4q3/page.tsx"],"sourcesContent":["export default function Ai4Q33 () {\r\n    return (\r\n        <div className=\"pt-21\">\r\n            \r\n        </div>\r\n    )\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,wPAAC;QAAI,WAAU;;;;;;AAIvB","debugId":null}}]
+}

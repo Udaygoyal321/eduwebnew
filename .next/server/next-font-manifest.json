@@ -1,0 +1,299 @@
+{
+  "app": {
+    "[project]/Eduweb/src/app/StudyDestinations/countrypage1/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/StudyDestinations/countrypage2/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/StudyDestinations/countrypage3/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/StudyDestinations/countrypage4/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/StudyDestinations/countrypage5/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/StudyDestinations/countrypage6/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/_not-found/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus10uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus11uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus12uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus13uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus14uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus15uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus16uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus17uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus18uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus19uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus1uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus20uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus2uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus3uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus4uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus5uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus6uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus7uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus8uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/aus9uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityaus/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitycan/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityger/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz10uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz11uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz12uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz13uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz14uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz15uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz16uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz17uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz18uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz19uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz1uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz20uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz2uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz3uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz4uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz5uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz6uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz7uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz8uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/nz9uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversitynz/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk10uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk11uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk12uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk13uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk14uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk15uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk16uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk17uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk18uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk19uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk1uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk20uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk2uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk3uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk4uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk5uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk6uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk7uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk8uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ],
+    "[project]/Eduweb/src/app/topunis/topuniversityuk/uk9uni/page": [
+      "static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2",
+      "static/media/0c89a48fa5027cee-s.p.4564287c.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
